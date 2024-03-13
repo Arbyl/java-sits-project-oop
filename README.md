@@ -1,10 +1,15 @@
 Aplicacion en java que permite seleccionar un asiento para un evento o pelicula, cada asiento estara relacionado al registro de una persona, mostrara cuales asientos estan disponibles [D] o ocupados [X]
 
+
+
 Inicializacion completamente disponible
+
 ![image](https://github.com/Arbyl/java-sits-project-oop/assets/73619752/68843f79-383a-443b-823f-58822d3b8441)
 
 
 Asientos Ocupados
+
+
 ![image](https://github.com/Arbyl/java-sits-project-oop/assets/73619752/87755ee3-0f18-4c16-998c-5cc6e4a0ef5b)
 
 
